@@ -15,7 +15,7 @@
 - **Data Science & AI**: NumPy, Pandas, Matplotlib, Scikit-Learn, OpenCV, YOLOv3  
 - **Tools & Platforms**: GitHub, Power BI, Tableau, Jupyter Notebook
 
-### 🚀 Planning to Learn:
+### 🚀 Knowledge:
 - PyTorch & TensorFlow (Advanced DL)  
 - Google Cloud Platform (GCP)  
 - FastAPI  
