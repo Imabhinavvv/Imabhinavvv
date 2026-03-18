@@ -12,8 +12,8 @@
 ### ✅ Currently Skilled In:
 - **Programming Languages**: Python, Java, R, C  
 - **Web Technologies**: HTML, CSS, JavaScript, React.js, Django  
-- **Data Science & AI**: NumPy, Pandas, Matplotlib, Scikit-Learn, OpenCV, YOLOv3  
-- **Tools & Platforms**: GitHub, Power BI, Tableau, Jupyter Notebook
+- **Data Science & AI**: NumPy, Pandas, Matplotlib, OpenCV, YOLO 
+- **Tools & Platforms**: GitHub, Power BI, Jupyter Notebook
 
 ### 🚀 Knowledge:
 - PyTorch & TensorFlow (Advanced DL)  
